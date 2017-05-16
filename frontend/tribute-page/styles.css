@@ -1,0 +1,70 @@
+/*Color palette
+#000080 Navy
+#000 Black
+#FF0 Yellow
+*/
+body {
+  width: 90%;
+  margin: 0 auto;
+  background: #000;
+}
+
+/*Header styles*/
+header {
+  margin-top: 1%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 1%;
+  padding: .2%;
+  background: rgba(100,104,237,.4);
+  border: 0% solid;
+}
+h1{
+  text-align: center;
+  font-size: 4em;
+  color: #FF0;
+}
+h2 {
+  text-align: center;
+  font-size: 2em;
+  color: #FF0;
+}
+/*Article styles*/
+div {
+    background: #000080;
+}
+img {
+  display: block;
+  margin: 0% auto;
+  padding-top: 1%;
+  padding-bottom: .2%;
+  
+}
+figcaption {
+  color: #FF0;
+  text-align: center;
+  font-size: .9em;
+}  
+
+li {
+  font-size: 1.5em;
+  text-align: center;
+  display: block;
+  margin: 0% auto;
+  color: #FF0;
+}
+aside {
+  text-align: center;
+  color: #666;
+  font-size: 3em;
+}
+footer {
+  text-align: center;
+  color: #FF0;
+}
+.info {
+  text-align: center;
+  color: #FF0;
+  margin: 2em;
+  padding-bottom: 1em;
+}
